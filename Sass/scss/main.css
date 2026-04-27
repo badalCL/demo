@@ -1,0 +1,23 @@
+body {
+  background-color: aqua;
+}
+
+h1 {
+  color: red;
+}
+
+div {
+  color: red;
+}
+div span {
+  color: blue;
+}
+div span p {
+  color: aqua;
+}
+div span p ul {
+  list-style-type: none;
+}
+div span p ul li {
+  color: bisque;
+}/*# sourceMappingURL=main.css.map */
